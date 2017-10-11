@@ -1,0 +1,24 @@
+{
+  "name": "custom-basic-slider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafalciszkowski/custom-basic-slider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafalciszkowski/custom-basic-slider/issues"
+  },
+  "homepage": "https://github.com/rafalciszkowski/custom-basic-slider#readme",
+  "dependencies": {
+   "jquery": "^3.2.1",
+   "gulp": "^3.9.1",
+   "gulp-sass": "^3.1.0" 
+ }
+}
