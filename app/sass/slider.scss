@@ -1,0 +1,26 @@
+.slider {
+    overflow: hidden;
+    .slider-inner {
+        display: inline-block;
+        width: 500px;
+        height: 200px;
+        .slide {
+            width: 0;
+            height: 200px;
+            margin: 0;
+            display: inline-block;
+            position: absolute;
+
+            img {
+                position: relative;
+                width: 100%;
+                max-width: 500px;
+                height: 230px;
+            }
+        }
+        .active {
+            width: 100% !important;
+            transition-duration: 1s;
+        } 
+    }
+}

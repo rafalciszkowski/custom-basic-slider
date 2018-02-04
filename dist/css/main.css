@@ -1,0 +1,2 @@
+.slider{overflow:hidden}.slider .slider-inner{display:inline-block;width:500px;height:200px}.slider .slider-inner .slide{width:0;height:200px;margin:0;display:inline-block;position:absolute}.slider .slider-inner .slide img{position:relative;width:100%;max-width:500px;height:230px}.slider .slider-inner .active{width:100% !important;transition-duration:1s}
+
